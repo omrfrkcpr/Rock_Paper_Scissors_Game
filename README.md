@@ -20,17 +20,9 @@ Rock_Paper_Scissor_Game(folder)
 |----style.css
 ```
 
-## Expected Outcome
+## Outcome
 
 ![project](https://github.com/omrfrkcpr/Rock_Paper_Scissors_Game/assets/77440899/761d77fb-39a5-4c73-929e-8f3fd0ae0662)
-
-### At the end of the project, following topics are to be covered;
-
-- HTML
-
-- CSS
-
-- JS
 
 ### At the end of the project, will be able to;
 
